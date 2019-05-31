@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sys_popup,ess</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-23 16:37:54</sys_created_on>
+        <sys_id>ebab2a1adb613300226dcc30399619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys_popup,ess</sys_name>
+        <sys_package display_value="Innovate" source="x_353009_innovate">76b5d106db213300226dcc3039961914</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">76b5d106db213300226dcc3039961914</sys_scope>
+        <sys_update_name>sys_ui_view_ebab2a1adb613300226dcc30399619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-23 16:37:54</sys_updated_on>
+        <title>Sys_popup,ess</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
